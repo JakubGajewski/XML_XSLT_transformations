@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="store.xsl"?>
+<store>
+	<fruits>
+		<fruit>
+			<name>banana</name>
+			<price>3</price>
+		</fruit>
+		<fruit>
+			<name>apple</name>
+			<price>4</price>
+		</fruit>
+		<fruit>
+			<name>watermelon</name>
+			<price>5</price>
+		</fruit>
+	</fruits>
+	<fishes>
+		<fish price="50" type="river">trout</fish>
+		<fish price="70" type="desert">ryba_nieryba</fish>
+		<fish price="20" type="sea">catfish</fish>
+	</fishes>
+</store>
